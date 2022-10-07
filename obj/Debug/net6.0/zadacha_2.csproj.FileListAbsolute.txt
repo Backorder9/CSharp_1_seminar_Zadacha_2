@@ -1,0 +1,15 @@
+D:\C#\1_seminar\1_zadanie\zadacha_2\bin\Debug\net6.0\zadacha_2.exe
+D:\C#\1_seminar\1_zadanie\zadacha_2\bin\Debug\net6.0\zadacha_2.deps.json
+D:\C#\1_seminar\1_zadanie\zadacha_2\bin\Debug\net6.0\zadacha_2.runtimeconfig.json
+D:\C#\1_seminar\1_zadanie\zadacha_2\bin\Debug\net6.0\zadacha_2.dll
+D:\C#\1_seminar\1_zadanie\zadacha_2\bin\Debug\net6.0\zadacha_2.pdb
+D:\C#\1_seminar\1_zadanie\zadacha_2\obj\Debug\net6.0\zadacha_2.csproj.AssemblyReference.cache
+D:\C#\1_seminar\1_zadanie\zadacha_2\obj\Debug\net6.0\zadacha_2.GeneratedMSBuildEditorConfig.editorconfig
+D:\C#\1_seminar\1_zadanie\zadacha_2\obj\Debug\net6.0\zadacha_2.AssemblyInfoInputs.cache
+D:\C#\1_seminar\1_zadanie\zadacha_2\obj\Debug\net6.0\zadacha_2.AssemblyInfo.cs
+D:\C#\1_seminar\1_zadanie\zadacha_2\obj\Debug\net6.0\zadacha_2.csproj.CoreCompileInputs.cache
+D:\C#\1_seminar\1_zadanie\zadacha_2\obj\Debug\net6.0\zadacha_2.dll
+D:\C#\1_seminar\1_zadanie\zadacha_2\obj\Debug\net6.0\refint\zadacha_2.dll
+D:\C#\1_seminar\1_zadanie\zadacha_2\obj\Debug\net6.0\zadacha_2.pdb
+D:\C#\1_seminar\1_zadanie\zadacha_2\obj\Debug\net6.0\zadacha_2.genruntimeconfig.cache
+D:\C#\1_seminar\1_zadanie\zadacha_2\obj\Debug\net6.0\ref\zadacha_2.dll
